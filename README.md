@@ -8,6 +8,8 @@
 
 [Не корректный тип данных при итоговом счете](https://github.com/KiraKoddy/java2.1/issues/1)
 
+## Описание процесса тестирования
+
 * В качестве тестовых данных использовались [данные задачи №1](https://github.com/netology-code/javaqa-homeworks/tree/master/programming):
 
 Входные данные:
